@@ -8,12 +8,12 @@
 // Deberías obtener el token de autenticación en la aplicación Blynk.
 // Ir a la configuración del proyecto.
 
-char auth[] = "eb4b17a93cc44401866123198672839a";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxx";
 
 
 
-char ssid[] = "Fibertel WiFi636 2.4GHz";            // Nombre de la red WiFi.
-char pass[] = "0142202542";                         // Establezca la contraseña en "" para redes abiertas.
+char ssid[] = "xxxxxxxxxxxx";            // Nombre de la red WiFi.
+char pass[] = "xxxxxxxxxxxx";                         // Establezca la contraseña en "" para redes abiertas.
 
 #define ANALOGIN A0          // a qué pin digital estamos conectados
 
