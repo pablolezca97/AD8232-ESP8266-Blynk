@@ -11,12 +11,13 @@ Este proyecto experimental sirve para poder comprender las señales ECG y visual
 
 Guía de la idea principal.
 
-(imagen)
+![alt text](https://i.ibb.co/SyHTMN8/guia.jpg)
+
 
 ## Componentes utilizados:
- 
+
 - AD8232
-- Módulo WIFI ESP8266 
+- Módulo WIFI ESP8266
 - Plataforma Blynk
 
 ## Librerias
